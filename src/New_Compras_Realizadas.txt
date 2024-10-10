@@ -1,0 +1,475 @@
+Fila de Compras de : Isabelly Pereira
+Nickname do Comprador : Plocun - Id do Jogo : 67 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Plocun - Id do Jogo : 48 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Plocun - Id do Jogo : 61 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Plocun - Id do Jogo : 8 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Plocun - Id do Jogo : 28 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Samuel Rocha
+Nickname do Comprador : Nupios - Id do Jogo : 103 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nupios - Id do Jogo : 23 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Nupios - Id do Jogo : 116 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Nupios - Id do Jogo : 105 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nupios - Id do Jogo : 28 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Pedro Miguel Barbosa
+Nickname do Comprador : Siwayr - Id do Jogo : 99 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Siwayr - Id do Jogo : 113 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Ana Cardoso
+Nickname do Comprador : Losala - Id do Jogo : 75 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Losala - Id do Jogo : 109 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Losala - Id do Jogo : 143 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Losala - Id do Jogo : 131 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Sr. Luiz Gustavo das Neves
+Nickname do Comprador : Gierae - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Gierae - Id do Jogo : 90 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Gierae - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Gierae - Id do Jogo : 59 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Gierae - Id do Jogo : 12 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Murilo Vieira
+Nickname do Comprador : Alhoes - Id do Jogo : 142 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Maria CecÃ­lia Cavalcanti
+Nickname do Comprador : Rawiwu - Id do Jogo : 60 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Rawiwu - Id do Jogo : 124 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Rawiwu - Id do Jogo : 83 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Rawiwu - Id do Jogo : 128 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Fernando Mendes
+Nickname do Comprador : Biahay - Id do Jogo : 30 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Biahay - Id do Jogo : 72 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Beatriz Lopes
+
+Fila de Compras de : Dr. Leandro Melo
+Nickname do Comprador : Olfara - Id do Jogo : 59 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Olfara - Id do Jogo : 1 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Pedro Miguel Souza
+
+Fila de Compras de : Sarah Caldeira
+Nickname do Comprador : Robica - Id do Jogo : 41 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Robica - Id do Jogo : 138 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Robica - Id do Jogo : 134 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Robica - Id do Jogo : 126 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Robica - Id do Jogo : 79 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Diogo Moura
+Nickname do Comprador : Ciorer - Id do Jogo : 11 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Emanuel Correia
+Nickname do Comprador : Niedio - Id do Jogo : 85 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Niedio - Id do Jogo : 135 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Raul Fernandes
+Nickname do Comprador : Lezoli - Id do Jogo : 126 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Lezoli - Id do Jogo : 140 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Lezoli - Id do Jogo : 13 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Lezoli - Id do Jogo : 91 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Lezoli - Id do Jogo : 119 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : JÃºlia Azevedo
+Nickname do Comprador : Wozeus - Id do Jogo : 87 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Wozeus - Id do Jogo : 22 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Wozeus - Id do Jogo : 110 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Wozeus - Id do Jogo : 88 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Wozeus - Id do Jogo : 140 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Vicente Porto
+Nickname do Comprador : Ussiun - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Ussiun - Id do Jogo : 59 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Ussiun - Id do Jogo : 6 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Isabella Almeida
+
+Fila de Compras de : Ester Duarte
+Nickname do Comprador : Pauswo - Id do Jogo : 131 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Pauswo - Id do Jogo : 11 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Pauswo - Id do Jogo : 91 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Pauswo - Id do Jogo : 135 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Pauswo - Id do Jogo : 65 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Davi Sales
+Nickname do Comprador : Blecol - Id do Jogo : 12 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Blecol - Id do Jogo : 149 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Luiz Felipe Silva
+Nickname do Comprador : Leguis - Id do Jogo : 73 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Leguis - Id do Jogo : 90 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Isabel Rocha
+Nickname do Comprador : Diarar - Id do Jogo : 65 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Marcelo da Rosa
+Nickname do Comprador : Irdour - Id do Jogo : 64 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Irdour - Id do Jogo : 140 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : MaitÃª Cardoso
+Nickname do Comprador : Mehosu - Id do Jogo : 120 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Mehosu - Id do Jogo : 87 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Mehosu - Id do Jogo : 139 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Sr. VitÃ³ria Cardoso
+Nickname do Comprador : Loyliu - Id do Jogo : 13 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Loyliu - Id do Jogo : 28 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Loyliu - Id do Jogo : 32 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Loyliu - Id do Jogo : 144 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Loyliu - Id do Jogo : 116 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Gabriela da Cruz
+Nickname do Comprador : Viseur - Id do Jogo : 68 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Viseur - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Viseur - Id do Jogo : 60 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Viseur - Id do Jogo : 76 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Viseur - Id do Jogo : 120 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Eduardo da Mota
+
+Fila de Compras de : LourenÃ§o Azevedo
+Nickname do Comprador : Zafuol - Id do Jogo : 126 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Zafuol - Id do Jogo : 41 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Zafuol - Id do Jogo : 59 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Maria CecÃ­lia Campos
+Nickname do Comprador : Basues - Id do Jogo : 150 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Basues - Id do Jogo : 137 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Dra. Sofia Moura
+Nickname do Comprador : Fixear - Id do Jogo : 125 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Fixear - Id do Jogo : 13 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Fixear - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Rafael Moreira
+Nickname do Comprador : Cyudol - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Cyudol - Id do Jogo : 108 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Cyudol - Id do Jogo : 16 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Cyudol - Id do Jogo : 93 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Sr. Bruno da Mata
+Nickname do Comprador : Caohol - Id do Jogo : 86 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Caohol - Id do Jogo : 128 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Caohol - Id do Jogo : 0 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Caohol - Id do Jogo : 8 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : JoÃ£o Felipe Jesus
+Nickname do Comprador : Fofeas - Id do Jogo : 111 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Fofeas - Id do Jogo : 13 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Fofeas - Id do Jogo : 33 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Fofeas - Id do Jogo : 88 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Fofeas - Id do Jogo : 128 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Ana VitÃ³ria GonÃ§alves
+Nickname do Comprador : Hyubiu - Id do Jogo : 106 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Hyubiu - Id do Jogo : 121 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Hyubiu - Id do Jogo : 107 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Hyubiu - Id do Jogo : 84 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Daniel Moura
+Nickname do Comprador : Fitimu - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : AlÃ­cia Ribeiro
+
+Fila de Compras de : Calebe Moraes
+
+Fila de Compras de : Sabrina Melo
+Nickname do Comprador : Orheku - Id do Jogo : 99 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Orheku - Id do Jogo : 151 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Orheku - Id do Jogo : 72 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Sr. Ryan Cunha
+Nickname do Comprador : Zarufo - Id do Jogo : 104 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Zarufo - Id do Jogo : 91 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Srta. Ã?sis Silveira
+Nickname do Comprador : Fezaen - Id do Jogo : 143 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Fezaen - Id do Jogo : 5 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Fezaen - Id do Jogo : 85 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Fezaen - Id do Jogo : 139 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Fezaen - Id do Jogo : 97 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Luiz Miguel Pires
+Nickname do Comprador : Gouhue - Id do Jogo : 77 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Gouhue - Id do Jogo : 61 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Gouhue - Id do Jogo : 151 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Raquel Teixeira
+Nickname do Comprador : Cuwuor - Id do Jogo : 8 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Cuwuor - Id do Jogo : 33 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Cuwuor - Id do Jogo : 38 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Brenda Moura
+Nickname do Comprador : Canies - Id do Jogo : 58 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Enzo Martins
+Nickname do Comprador : Keawea - Id do Jogo : 72 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Mariana Vieira
+Nickname do Comprador : Gihuho - Id do Jogo : 16 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Gihuho - Id do Jogo : 32 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Sr. Maria Alice Pereira
+Nickname do Comprador : Fyodin - Id do Jogo : 122 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Fyodin - Id do Jogo : 11 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Fyodin - Id do Jogo : 120 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Giovanna Cavalcanti
+Nickname do Comprador : Zaunre - Id do Jogo : 133 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Sr. BenÃ­cio Moreira
+Nickname do Comprador : Zaedal - Id do Jogo : 41 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Zaedal - Id do Jogo : 14 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Zaedal - Id do Jogo : 79 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Zaedal - Id do Jogo : 85 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Zaedal - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Srta. Maria VitÃ³ria Barbosa
+Nickname do Comprador : Hopein - Id do Jogo : 132 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Hopein - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Hopein - Id do Jogo : 118 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Hopein - Id do Jogo : 121 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Hopein - Id do Jogo : 103 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Artur Correia
+Nickname do Comprador : Helial - Id do Jogo : 95 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Helial - Id do Jogo : 49 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Helial - Id do Jogo : 23 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Levi Lima
+Nickname do Comprador : Sesacu - Id do Jogo : 26 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Sesacu - Id do Jogo : 19 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Sesacu - Id do Jogo : 55 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Sesacu - Id do Jogo : 145 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Melissa Viana
+Nickname do Comprador : Faobos - Id do Jogo : 46 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Faobos - Id do Jogo : 88 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Faobos - Id do Jogo : 91 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Faobos - Id do Jogo : 46 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Faobos - Id do Jogo : 83 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Lucca Campos
+
+Fila de Compras de : Luiz Gustavo Farias
+Nickname do Comprador : Barual - Id do Jogo : 27 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Barual - Id do Jogo : 146 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : MaitÃª Silva
+Nickname do Comprador : Geregu - Id do Jogo : 79 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Geregu - Id do Jogo : 107 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Geregu - Id do Jogo : 32 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Sr. Thales Almeida
+Nickname do Comprador : Nimblelitz - Id do Jogo : 134 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Igor Moraes
+Nickname do Comprador : Nuxate - Id do Jogo : 9 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nuxate - Id do Jogo : 22 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nuxate - Id do Jogo : 134 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Nuxate - Id do Jogo : 93 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Nuxate - Id do Jogo : 95 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Miguel Barbosa
+Nickname do Comprador : Wuybie - Id do Jogo : 45 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Wuybie - Id do Jogo : 134 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Wuybie - Id do Jogo : 66 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Fernanda Moreira
+Nickname do Comprador : Ernuin - Id do Jogo : 88 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Ernuin - Id do Jogo : 35 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Ernuin - Id do Jogo : 60 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Gabriela Nascimento
+Nickname do Comprador : Xizoen - Id do Jogo : 61 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Xizoen - Id do Jogo : 105 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Xizoen - Id do Jogo : 96 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : LÃ­via Jesus
+
+Fila de Compras de : Ana Carolina Monteiro
+Nickname do Comprador : Zasios - Id do Jogo : 19 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Zasios - Id do Jogo : 66 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Zasios - Id do Jogo : 13 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Zasios - Id do Jogo : 1 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Fernanda Castro
+Nickname do Comprador : Hoirua - Id do Jogo : 53 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Hoirua - Id do Jogo : 145 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Hoirua - Id do Jogo : 35 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Beatriz Nogueira
+Nickname do Comprador : Suaesl - Id do Jogo : 98 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Suaesl - Id do Jogo : 90 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Suaesl - Id do Jogo : 132 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Ana VitÃ³ria Azevedo
+Nickname do Comprador : Laoxyu - Id do Jogo : 151 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : JoÃ£o Vitor Duarte
+Nickname do Comprador : Quevur - Id do Jogo : 38 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Quevur - Id do Jogo : 147 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Marina Correia
+
+Fila de Compras de : JoÃ£o Miguel Alves
+Nickname do Comprador : Leazor - Id do Jogo : 48 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Leazor - Id do Jogo : 112 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Leazor - Id do Jogo : 102 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Leazor - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Lucca da Mota
+Nickname do Comprador : Duauns - Id do Jogo : 115 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Duauns - Id do Jogo : 138 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Sr. Rafael Nascimento
+Nickname do Comprador : Niawar - Id do Jogo : 114 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Niawar - Id do Jogo : 151 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Niawar - Id do Jogo : 147 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Niawar - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : CecÃ­lia Oliveira
+
+Fila de Compras de : Alexia FogaÃ§a
+Nickname do Comprador : Muadia - Id do Jogo : 67 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Muadia - Id do Jogo : 147 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Muadia - Id do Jogo : 0 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Muadia - Id do Jogo : 90 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Raul Moraes
+
+Fila de Compras de : Ana VitÃ³ria Pinto
+Nickname do Comprador : Futain - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Futain - Id do Jogo : 9 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Futain - Id do Jogo : 89 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Futain - Id do Jogo : 82 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Clara Barbosa
+Nickname do Comprador : Tuzous - Id do Jogo : 71 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Tuzous - Id do Jogo : 45 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Tuzous - Id do Jogo : 114 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Tuzous - Id do Jogo : 151 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Tuzous - Id do Jogo : 0 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Melissa da Luz
+Nickname do Comprador : Zioann - Id do Jogo : 142 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Zioann - Id do Jogo : 138 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Zioann - Id do Jogo : 119 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Zioann - Id do Jogo : 54 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Dr. Renan Oliveira
+Nickname do Comprador : Hopyol - Id do Jogo : 98 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Hopyol - Id do Jogo : 34 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Hopyol - Id do Jogo : 9 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Hopyol - Id do Jogo : 109 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Maria Fernanda Rezende
+Nickname do Comprador : Petaur - Id do Jogo : 107 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Petaur - Id do Jogo : 138 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Gabrielly FogaÃ§a
+
+Fila de Compras de : Ana Clara Ferreira
+Nickname do Comprador : Diwuer - Id do Jogo : 26 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Ana VitÃ³ria Fernandes
+Nickname do Comprador : Zaepeo - Id do Jogo : 57 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Zaepeo - Id do Jogo : 123 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Ir. Lucca Lopes
+Nickname do Comprador : Mulapa - Id do Jogo : 70 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Mulapa - Id do Jogo : 107 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Mulapa - Id do Jogo : 61 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Mulapa - Id do Jogo : 51 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Ana Luiza Viana
+Nickname do Comprador : Vulove - Id do Jogo : 19 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Vulove - Id do Jogo : 16 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Vulove - Id do Jogo : 12 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Vulove - Id do Jogo : 55 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Vulove - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Dr. Diogo Rezende
+
+Fila de Compras de : Sr. Alexandre Sales
+Nickname do Comprador : Gadabi - Id do Jogo : 33 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Bruna Peixoto
+Nickname do Comprador : Gyuasl - Id do Jogo : 45 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Gyuasl - Id do Jogo : 96 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Gyuasl - Id do Jogo : 56 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Gyuasl - Id do Jogo : 36 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Bryan Vieira
+Nickname do Comprador : Uswyer - Id do Jogo : 60 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Uswyer - Id do Jogo : 132 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Uswyer - Id do Jogo : 79 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Uswyer - Id do Jogo : 57 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Sr. Calebe Vieira
+Nickname do Comprador : Maleal - Id do Jogo : 74 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Maleal - Id do Jogo : 101 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Maleal - Id do Jogo : 125 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Nathan da Rocha
+Nickname do Comprador : Dauboy - Id do Jogo : 96 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Luna Santos
+Nickname do Comprador : Lekoyr - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Lekoyr - Id do Jogo : 98 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Lekoyr - Id do Jogo : 30 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Juliana Azevedo
+
+Fila de Compras de : Elisa Duarte
+Nickname do Comprador : Orwael - Id do Jogo : 45 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Orwael - Id do Jogo : 130 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Orwael - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Orwael - Id do Jogo : 74 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Orwael - Id do Jogo : 20 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Emanuela da Rocha
+Nickname do Comprador : Caypul - Id do Jogo : 132 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+Nickname do Comprador : Caypul - Id do Jogo : 18 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+
+Fila de Compras de : Sr. Stella Moura
+Nickname do Comprador : Payman - Id do Jogo : 88 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Payman - Id do Jogo : 23 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Payman - Id do Jogo : 59 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+
+Fila de Compras de : Sr. Juan da Paz
+Nickname do Comprador : Leualr - Id do Jogo : 87 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Leualr - Id do Jogo : 12 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Leualr - Id do Jogo : 95 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Leualr - Id do Jogo : 80 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Leualr - Id do Jogo : 129 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Pedro Ribeiro
+Nickname do Comprador : Cituis - Id do Jogo : 72 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Cituis - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Cituis - Id do Jogo : 8 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Cituis - Id do Jogo : 62 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Cituis - Id do Jogo : 94 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
+Fila de Compras de : Dra. Ana Sofia Barros
+Nickname do Comprador : Nedubu - Id do Jogo : 131 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nedubu - Id do Jogo : 36 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Nedubu - Id do Jogo : 58 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+Nickname do Comprador : Nedubu - Id do Jogo : 43 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 7.0
+
+Fila de Compras de : Matheus Ferreira
+Nickname do Comprador : Nagaus - Id do Jogo : 27 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+
+Fila de Compras de : Levi Novaes
+Nickname do Comprador : Ertoil - Id do Jogo : 80 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Ertoil - Id do Jogo : 11 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 5.0
+Nickname do Comprador : Ertoil - Id do Jogo : 63 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+Nickname do Comprador : Ertoil - Id do Jogo : 85 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 9.0
+
+Fila de Compras de : Thales Dias
+Nickname do Comprador : Piaxel - Id do Jogo : 3 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Piaxel - Id do Jogo : 39 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 8.0
+Nickname do Comprador : Piaxel - Id do Jogo : 106 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 6.0
+Nickname do Comprador : Piaxel - Id do Jogo : 85 - Data de Compra : 2022/05/04 11:56:59 - Avaliação Dada : 4.0
+
